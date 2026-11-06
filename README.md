@@ -124,7 +124,7 @@ A completely modular, decoupled suite of open-source Swift packages engineered f
 ---
 
 <div align="center">
-  <p>💼 <em>Open to Senior iOS Engineer opportunities — Let's connect!</em></p>
+  <p>💼 <em>Open to iOS Software Engineering opportunities — Let's connect!</em></p>
   <p>
     <a href="https://www.linkedin.com/in/anurag-chourasia-b66710178/">LinkedIn</a> •
     <a href="mailto:anuragchourasiaios@gmail.com">Email</a> •
