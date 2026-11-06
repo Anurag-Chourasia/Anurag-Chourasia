@@ -107,7 +107,7 @@ A completely modular, decoupled suite of open-source Swift packages engineered f
   </tr>
   <tr>
     <td><strong>Architecture</strong></td>
-    <td>Clean Architecture, MVVM, MVVM-C, Modular SPM, Design Systems, XCFrameworks, Protocol-Oriented Programming</td>
+    <td>Clean Architecture, MVVM, MVVM-C, Modular SPM, Design Systems, Protocol-Oriented Programming</td>
   </tr>
   <tr>
     <td><strong>Testing & Quality</strong></td>
