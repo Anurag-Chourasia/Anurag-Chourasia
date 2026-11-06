@@ -119,14 +119,7 @@ A completely modular, decoupled suite of open-source Swift packages engineered f
   </tr>
 </table>
 
----
 
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anurag-Chourasia&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Anurag's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-Chourasia&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="165"/>
-</div>
 
 ---
 
