@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm <a href="https://github.com/Anurag-Chourasia">Anurag Chourasia</a> 👋</h1>
-  <p><strong>Senior iOS Engineer • Modular SPM Architecture • SwiftUI & Clean Architecture</strong></p>
+  <p><strong>Software Engineer II (iOS) • Modular SPM Architecture • SwiftUI & Clean Architecture</strong></p>
 
   <p>
     <a href="https://www.linkedin.com/in/anurag-chourasia-b66710178/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -23,7 +23,7 @@
 
 ### 🚀 About Me
 
-I am a passionate **iOS Engineer with ~4 years of experience** building high-performance, production-grade mobile applications for global enterprises (including **Lloyds Bank**, **Halifax**, **Bank of Scotland**, **MBNA**, and **ITC Hotels**).
+I am a passionate **iOS Software Engineer II with ~4 years of experience** building high-performance, production-grade mobile applications for global enterprises (including **Lloyds Bank**, **Halifax**, **Bank of Scotland**, **MBNA**, and **ITC Hotels**).
 
 - 🏗️ **Architectural Craftsmanship**: Specialized in **Clean Architecture**, **MVVM / MVVM-C**, and decomposing monolithic codebases into decoupled, testable **Swift Package Manager (SPM)** libraries.
 - 🎨 **Design Systems & UX**: Expert at engineering reusable token-driven design systems (`DesignTokensKit`, `UIComponentsKit`) ensuring WCAG accessibility (Dynamic Type, VoiceOver, high-contrast) and seamless Dark/Light theming.
